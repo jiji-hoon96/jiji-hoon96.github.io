@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/jicoinApp/static/js/main.f853be0a.js",
+    "index.html": "/jicoinApp/index.html",
+    "main.f853be0a.js.map": "/jicoinApp/static/js/main.f853be0a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f853be0a.js"
+  ]
+}
